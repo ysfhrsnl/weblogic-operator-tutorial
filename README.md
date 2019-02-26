@@ -1,5 +1,5 @@
 # Welcome to Oracle WebLogic Operator Tutorial #
-
+ 
 ### About this hands-on tutorial ###
 
 This tutorial demonstrates how to deploy and run WebLogic Domain on Kubernetes Cluster using [Oracle WebLogic Server Kubernetes Operator](https://github.com/oracle/weblogic-kubernetes-operator).
